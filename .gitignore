@@ -1,3 +1,6 @@
 .bak
 *.bak
 *.csv
+*build/
+*dist/
+*.spec
